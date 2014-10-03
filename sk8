@@ -1,0 +1,11 @@
+use FacebookAds\Object\AdAccount;
+use FacebookAds\Object\Fields\AdAccountFields;
+
+$fields = array(
+  AdAccountFields::ID,
+  AdAccountFields::NAME,
+  AdAccountFields::DAILY_SPEND_LIMIT,
+);
+
+$account = new AdAccount($account_id);
+$account->read($fields);
