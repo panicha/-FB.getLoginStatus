@@ -1,0 +1,6 @@
+curl -X POST \
+-F 'object={"locale":"es_ES",
+            "title":"mi objeto",
+            "description":"mi descripción", 
+            "data": { "obj_extra":"mi información" } }' \
+"https://graph.facebook.com/$APPID/objects/testme_like_app:foo?access_token=$APPID|$APPSECRET"
