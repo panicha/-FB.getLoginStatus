@@ -1,0 +1,6 @@
+use FacebookAds\Object\AdAccount;
+use FacebookAds\Object\Fields\AdAccountFields;
+
+$account = new AdAccount();
+$account->{AdAccountFields::NAME} = 'My account name';
+echo $account->{AdAccountFields::NAME};
