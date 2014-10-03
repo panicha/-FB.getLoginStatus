@@ -1,0 +1,10 @@
+/friendsmash/index.php<head>
+FB.init({
+  appId: YOUR_APP_ID,
+  frictionlessRequests: true,
+  status: true,
+  version: 'v2.1'
+});
+
+FB.Event.subscribe('auth.authResponseChange', onAuthResponseChange);
+FB.Event.subscribe('auth.statusChange', onStatusChange)
