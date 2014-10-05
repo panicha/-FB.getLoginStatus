@@ -1,0 +1,1 @@
+http://graph.facebook.com/v2.1/app_insights/app_event/?event_name=fb_mobile_activate_app&breakdowns[0]=souceApplication&aggregateBy=COUNT&since=&until=&breakdowns[0]=client&access_token=&date_format=U
