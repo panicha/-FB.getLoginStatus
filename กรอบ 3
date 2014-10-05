@@ -1,0 +1,2 @@
+GET /v2.1/me/objects/article HTTP/1.1
+Host: graph.facebook.com
