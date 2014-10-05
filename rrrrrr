@@ -1,0 +1,6 @@
+POST /me/cookbook:eat?
+  recipe=www.facebook.com/Skwperfect
+  start_time=2013-03-06T15:18:26-08:00&
+  end_time=2013-03-06T15:18:27-08:00&
+  access_token=VALID_ACCESS_TOKEN
+
