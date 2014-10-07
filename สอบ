@@ -1,0 +1,1 @@
+FB.ui({ method: 'สอบถามสินค้า', redirect_uri: 'www.facebook.com/Skwperfect' }, function(response){});
