@@ -1,0 +1,2 @@
+ var element = document.getElementById('myGreatFlashObjectElement');
+ FB.Canvas.hideFlashElement(element);
