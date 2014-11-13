@@ -1,0 +1,3 @@
+FBLikeControl *like = [[FBLikeControl alloc] init];
+like.objectID = @"http://shareitexampleapp.parseapp.com/photo1/";
+[self addSubview:like];
