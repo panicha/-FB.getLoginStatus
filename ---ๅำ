@@ -1,0 +1,10 @@
+// Check if the Facebook app is installed and we can present the share dialog
+FBLinkShareParams *params = [[FBLinkShareParams alloc] init];
+params.link = [NSURL URLWithString:@"https://developers.facebook.com/docs/ios/share/"];
+
+// If the Facebook app is installed and we can present the share dialog
+if ([FBDialogs canPresentShareDialogWithParams:params]) {
+  // Present the share dialog
+} else {
+  // Present the feed dialog
+}
