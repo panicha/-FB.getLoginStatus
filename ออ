@@ -1,0 +1,3 @@
+GET graph.facebook.com
+  /bgolub?
+    fields=id,name,picture
