@@ -1,0 +1,8 @@
+{
+  "error": {
+    "message": "Error validating access token: User USER_ID has 
+                not authorized application APP_ID.", 
+    "type": "OAuthException", 
+    "code": 190
+  }
+}
