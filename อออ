@@ -1,0 +1,7 @@
+<meta property="og:type" content="metadata" />
+<link rel="origin" href="http://www.exampleapp.com/playlist/ID" />
+<meta property="music:song" content="http://www.amazon.com/gp/product/B000UBLXG4/ref=dm_dp_trk1" />
+<meta property="music:song:track" content="1" />
+<meta property="music:song" content="http://www.amazon.com/gp/product/B000UBLXG4/ref=dm_dp_trk2" />
+<meta property="music:song:track" content="2" />
+...
