@@ -1,0 +1,4 @@
+GET /oauth/access_token?
+     client_id={app-id}
+    &client_secret={app-secret}
+    &grant_type=client_credentials
