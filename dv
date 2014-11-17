@@ -1,0 +1,4 @@
+POST /v2.2/me/books.wants_to_read HTTP/1.1
+Host: graph.facebook.com
+
+book=http%3A%2F%2Fsamples.ogp.me%2F344468272304428
