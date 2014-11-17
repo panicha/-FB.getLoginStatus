@@ -1,0 +1,9 @@
+ Login with Facebook to the "Coco and Etoile Dating App."
+ Accept the "user_events" permission. 
+ Click "yes" to accept the pending match. 
+ Immediately after accepting, you will see event suggestions. 
+For instance, the configured test user (and its match) have 
+both attended soccer games. The suggested event is an upcoming
+Stanford Women's Soccer Game. 
+5. Without the Facebook user_events property, we would only be 
+able to suggest location-based events. 
