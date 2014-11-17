@@ -1,0 +1,8 @@
+{
+  "error":
+  {
+    "message":ERROR_MESSAGE,
+    "type":ERROR_TYPE,
+    "code":ERROR_CODE
+  }
+}
