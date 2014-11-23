@@ -1,0 +1,7 @@
+{
+   "oauth_token": "{user-access-token}",
+   "algorithm": "HMAC-SHA256",
+   "expires": 1291840400,
+   "issued_at": 1291836800,
+   "user_id": "218471"
+}
