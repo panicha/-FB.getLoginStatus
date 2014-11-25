@@ -1,0 +1,9 @@
+FB.login(
+  function(response) {
+    console.log(response);
+  },
+  {
+    scope: 'user_likes',
+    auth_type: 'rerequest'
+  }
+);
