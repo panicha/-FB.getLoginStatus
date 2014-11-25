@@ -1,0 +1,297 @@
+{
+    "name": "โทรสับ",
+    "publicId": "GTM-KNPWZ4",
+    "timeZone": "Asia/Bangkok",
+    "timeZoneCountryCode": "TH",
+    "usageContext": [
+        "IOS"
+    ],
+    "containerVersionId": 1,
+    "exportFormatVersion": 1.2,
+    "exportTime": "2014-11-26 04:32:11",
+    "macros": [
+        {
+            "key": {
+                "accountId": 29621397,
+                "containerId": 871745,
+                "macroId": 7
+            },
+            "statMetadata": {
+                "createdTime": 1416950882522,
+                "createdBy": 444218211421,
+                "modifiedTime": 1416950882522,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "screen resolution",
+                "type": "RESOLUTION"
+            },
+            "entityVersion": 1416950882522
+        },
+        {
+            "key": {
+                "accountId": 29621397,
+                "containerId": 871745,
+                "macroId": 6
+            },
+            "statMetadata": {
+                "createdTime": 1416950882522,
+                "createdBy": 444218211421,
+                "modifiedTime": 1416950882522,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "platform",
+                "type": "PLATFORM"
+            },
+            "entityVersion": 1416950882522
+        },
+        {
+            "key": {
+                "accountId": 29621397,
+                "containerId": 871745,
+                "macroId": 9
+            },
+            "statMetadata": {
+                "createdTime": 1416950882523,
+                "createdBy": 444218211421,
+                "modifiedTime": 1416950882523,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "true",
+                "type": "CONSTANT",
+                "constantMacro": {
+                    "value": "true"
+                }
+            },
+            "entityVersion": 1416950882523
+        },
+        {
+            "key": {
+                "accountId": 29621397,
+                "containerId": 871745,
+                "macroId": 8
+            },
+            "statMetadata": {
+                "createdTime": 1416950882522,
+                "createdBy": 444218211421,
+                "modifiedTime": 1416950882522,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "sdk version",
+                "type": "SDK_VERSION"
+            },
+            "entityVersion": 1416950882522
+        },
+        {
+            "key": {
+                "accountId": 29621397,
+                "containerId": 871745,
+                "macroId": 11
+            },
+            "statMetadata": {
+                "createdTime": 1416950882523,
+                "createdBy": 444218211421,
+                "modifiedTime": 1416950882523,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "app id",
+                "type": "APP_ID"
+            },
+            "entityVersion": 1416950882523
+        },
+        {
+            "key": {
+                "accountId": 29621397,
+                "containerId": 871745,
+                "macroId": 10
+            },
+            "statMetadata": {
+                "createdTime": 1416950882523,
+                "createdBy": 444218211421,
+                "modifiedTime": 1416950882523,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "advertising tracking enabled",
+                "type": "ADVERTISING_TRACKING_ENABLED"
+            },
+            "entityVersion": 1416950882523
+        },
+        {
+            "key": {
+                "accountId": 29621397,
+                "containerId": 871745,
+                "macroId": 13
+            },
+            "statMetadata": {
+                "createdTime": 1416950882524,
+                "createdBy": 444218211421,
+                "modifiedTime": 1416950882524,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "id for advertising",
+                "type": "ADVERTISER_ID"
+            },
+            "entityVersion": 1416950882524
+        },
+        {
+            "key": {
+                "accountId": 29621397,
+                "containerId": 871745,
+                "macroId": 12
+            },
+            "statMetadata": {
+                "createdTime": 1416950882524,
+                "createdBy": 444218211421,
+                "modifiedTime": 1416950882524,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "event",
+                "type": "EVENT"
+            },
+            "entityVersion": 1416950882524
+        },
+        {
+            "key": {
+                "accountId": 29621397,
+                "containerId": 871745,
+                "macroId": 1
+            },
+            "statMetadata": {
+                "createdTime": 1416950882520,
+                "createdBy": 444218211421,
+                "modifiedTime": 1416950882520,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "app name",
+                "type": "APP_NAME"
+            },
+            "entityVersion": 1416950882520
+        },
+        {
+            "key": {
+                "accountId": 29621397,
+                "containerId": 871745,
+                "macroId": 3
+            },
+            "statMetadata": {
+                "createdTime": 1416950882521,
+                "createdBy": 444218211421,
+                "modifiedTime": 1416950882521,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "device name",
+                "type": "DEVICE_NAME"
+            },
+            "entityVersion": 1416950882521
+        },
+        {
+            "key": {
+                "accountId": 29621397,
+                "containerId": 871745,
+                "macroId": 2
+            },
+            "statMetadata": {
+                "createdTime": 1416950882521,
+                "createdBy": 444218211421,
+                "modifiedTime": 1416950882521,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "app version",
+                "type": "APP_VERSION"
+            },
+            "entityVersion": 1416950882521
+        },
+        {
+            "key": {
+                "accountId": 29621397,
+                "containerId": 871745,
+                "macroId": 5
+            },
+            "statMetadata": {
+                "createdTime": 1416950882522,
+                "createdBy": 444218211421,
+                "modifiedTime": 1416950882522,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "os version",
+                "type": "OS_VERSION"
+            },
+            "entityVersion": 1416950882522
+        },
+        {
+            "key": {
+                "accountId": 29621397,
+                "containerId": 871745,
+                "macroId": 4
+            },
+            "statMetadata": {
+                "createdTime": 1416950882521,
+                "createdBy": 444218211421,
+                "modifiedTime": 1416950882521,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "language",
+                "type": "LANGUAGE"
+            },
+            "entityVersion": 1416950882521
+        }
+    ],
+    "conditions": [
+        {
+            "key": {
+                "accountId": 29621397,
+                "containerId": 871745,
+                "conditionId": 1
+            },
+            "statMetadata": {
+                "createdTime": 1416950882524,
+                "createdBy": 444218211421,
+                "modifiedTime": 1416951100386,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "Always",
+                "conjunction": {
+                    "predicate": [
+                        {
+                            "type": "EQUALS",
+                            "arg": [
+                                "{{true}}",
+                                "true"
+                            ]
+                        }
+                    ]
+                }
+            },
+            "entityVersion": 1416951100386
+        }
+    ],
+    "tags": [
+        {
+            "tagName": "กลูต้า",
+            "publicId": "awct",
+            "positiveConditions": [
+                "Always"
+            ],
+            "onlyFireThisTagInPublishedContainers": false,
+            "params": {
+                "conversionId": "{{app id}}",
+                "conversionLabel": "{{app name}}",
+                "conversionValue": "{{true}}",
+                "unrepeatable": false
+            }
+        }
+    ]
+}
