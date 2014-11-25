@@ -1,0 +1,16 @@
+{"data":
+  [
+    {
+      "permission":"public_profile",
+      "status":"granted"
+    },
+    {
+      "permission":"email",
+      "status":"granted"
+    },
+    {
+      "permission":"user_friends",
+      "status":"granted"
+    }
+  ]
+}
