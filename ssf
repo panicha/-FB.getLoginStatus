@@ -1,0 +1,12 @@
+{"data":
+  [
+    {
+      "permission":"public_profile",
+      "status":"granted"
+    },
+    {
+       "permission":"email",
+       "status":"granted"
+    }
+  ]
+}
