@@ -1,0 +1,13 @@
+{
+  "data":
+    [
+      {
+        "permission":"public_profile",
+        "status":"granted"
+      },
+      {
+        "permission":"user_likes",
+        "status":"declined"
+      }
+    ]
+}
