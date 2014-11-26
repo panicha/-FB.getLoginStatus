@@ -1,0 +1,5 @@
+ga('send', {
+  'hitType': 'pageview',
+  'page': '/my-overridden-page?id=1',
+  'title': 'my overridden page'
+});
