@@ -1,0 +1,424 @@
+{
+    "name": "facebook",
+    "domainName": [
+        "https://www.facebook.com/Skwperfect"
+    ],
+    "publicId": "GTM-PMVZRV",
+    "timeZone": "Asia/Bangkok",
+    "timeZoneCountryCode": "TH",
+    "usageContext": [
+        "WEB"
+    ],
+    "containerVersionId": 0,
+    "exportFormatVersion": 1.2,
+    "exportTime": "2014-12-01 03:22:08",
+    "macros": [
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 1
+            },
+            "statMetadata": {
+                "createdTime": 1417378274501,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274501,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "url",
+                "type": "URL",
+                "urlMacro": {
+                    "component": "URL"
+                }
+            },
+            "entityVersion": 1417378274501
+        },
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 2
+            },
+            "statMetadata": {
+                "createdTime": 1417378274501,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274501,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "url hostname",
+                "type": "URL",
+                "urlMacro": {
+                    "component": "HOST"
+                }
+            },
+            "entityVersion": 1417378274501
+        },
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 3
+            },
+            "statMetadata": {
+                "createdTime": 1417378274502,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274502,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "url path",
+                "type": "URL",
+                "urlMacro": {
+                    "component": "PATH"
+                }
+            },
+            "entityVersion": 1417378274502
+        },
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 4
+            },
+            "statMetadata": {
+                "createdTime": 1417378274502,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274502,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "referrer",
+                "type": "REFERRER"
+            },
+            "entityVersion": 1417378274502
+        },
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 5
+            },
+            "statMetadata": {
+                "createdTime": 1417378274502,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274502,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "event",
+                "type": "EVENT"
+            },
+            "entityVersion": 1417378274502
+        },
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 6
+            },
+            "statMetadata": {
+                "createdTime": 1417378274502,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274502,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "element",
+                "type": "AUTO_EVENT_VAR",
+                "autoEventVarMacro": {
+                    "varType": "ELEMENT"
+                }
+            },
+            "entityVersion": 1417378274502
+        },
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 7
+            },
+            "statMetadata": {
+                "createdTime": 1417378274503,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274503,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "element classes",
+                "type": "AUTO_EVENT_VAR",
+                "autoEventVarMacro": {
+                    "varType": "CLASSES"
+                }
+            },
+            "entityVersion": 1417378274503
+        },
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 8
+            },
+            "statMetadata": {
+                "createdTime": 1417378274503,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274503,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "element id",
+                "type": "AUTO_EVENT_VAR",
+                "autoEventVarMacro": {
+                    "varType": "ID"
+                }
+            },
+            "entityVersion": 1417378274503
+        },
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 9
+            },
+            "statMetadata": {
+                "createdTime": 1417378274503,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274503,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "element target",
+                "type": "AUTO_EVENT_VAR",
+                "autoEventVarMacro": {
+                    "varType": "TARGET"
+                }
+            },
+            "entityVersion": 1417378274503
+        },
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 10
+            },
+            "statMetadata": {
+                "createdTime": 1417378274503,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274503,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "element text",
+                "type": "AUTO_EVENT_VAR",
+                "autoEventVarMacro": {
+                    "varType": "TEXT"
+                }
+            },
+            "entityVersion": 1417378274503
+        },
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 11
+            },
+            "statMetadata": {
+                "createdTime": 1417378274504,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274504,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "element url",
+                "type": "AUTO_EVENT_VAR",
+                "autoEventVarMacro": {
+                    "varType": "URL"
+                }
+            },
+            "entityVersion": 1417378274504
+        },
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 12
+            },
+            "statMetadata": {
+                "createdTime": 1417378274504,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274504,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "history new url fragment",
+                "type": "AUTO_EVENT_VAR",
+                "autoEventVarMacro": {
+                    "varType": "HISTORY_NEW_URL_FRAGMENT"
+                }
+            },
+            "entityVersion": 1417378274504
+        },
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 13
+            },
+            "statMetadata": {
+                "createdTime": 1417378274504,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274504,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "history old url fragment",
+                "type": "AUTO_EVENT_VAR",
+                "autoEventVarMacro": {
+                    "varType": "HISTORY_OLD_URL_FRAGMENT"
+                }
+            },
+            "entityVersion": 1417378274504
+        },
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 14
+            },
+            "statMetadata": {
+                "createdTime": 1417378274504,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274504,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "history new state",
+                "type": "AUTO_EVENT_VAR",
+                "autoEventVarMacro": {
+                    "varType": "HISTORY_NEW_STATE"
+                }
+            },
+            "entityVersion": 1417378274504
+        },
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 15
+            },
+            "statMetadata": {
+                "createdTime": 1417378274505,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274505,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "history old state",
+                "type": "AUTO_EVENT_VAR",
+                "autoEventVarMacro": {
+                    "varType": "HISTORY_OLD_STATE"
+                }
+            },
+            "entityVersion": 1417378274505
+        },
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "macroId": 16
+            },
+            "statMetadata": {
+                "createdTime": 1417378274505,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274505,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "history change source",
+                "type": "AUTO_EVENT_VAR",
+                "autoEventVarMacro": {
+                    "varType": "HISTORY_CHANGE_SOURCE"
+                }
+            },
+            "entityVersion": 1417378274505
+        }
+    ],
+    "conditions": [
+        {
+            "key": {
+                "accountId": 30286584,
+                "containerId": 879149,
+                "conditionId": 1
+            },
+            "statMetadata": {
+                "createdTime": 1417378274505,
+                "createdBy": 444218211421,
+                "modifiedTime": 1417378274505,
+                "modifiedBy": 444218211421
+            },
+            "data": {
+                "name": "All pages",
+                "conjunction": {
+                    "predicate": [
+                        {
+                            "type": "REGEX",
+                            "arg": [
+                                "{{url}}",
+                                ".*"
+                            ]
+                        }
+                    ]
+                }
+            },
+            "entityVersion": 1417378274505
+        }
+    ],
+    "tags": [
+        {
+            "tagName": "www.facebook.com",
+            "publicId": "ua",
+            "onlyFireThisTagInPublishedContainers": false,
+            "params": {
+                "trackingId": "{{element id}}",
+                "trackType": "TRACK_SOCIAL",
+                "anonymizeIp": true,
+                "sessionControl": "{{element classes}}",
+                "referrer": "{{element classes}}",
+                "page": "{{element classes}}",
+                "documentTitle": "{{element classes}}",
+                "dimension": [
+                    {
+                        "type": "MAP",
+                        "rows": [
+                            [
+                                "index",
+                                "{{element classes}}"
+                            ],
+                            [
+                                "dimension",
+                                "{{element classes}}"
+                            ]
+                        ]
+                    }
+                ],
+                "sampleRate": "{{element classes}}",
+                "functionName": "{{element classes}}",
+                "cookieName": "{{element classes}}",
+                "cookieDomain": "{{element classes}}",
+                "cookieExpiration": "{{element classes}}",
+                "cookiePath": "{{element classes}}",
+                "trackerName": "{{element classes}}",
+                "useDebugVersion": "{{element classes}}",
+                "enableLinkId": "{{element classes}}",
+                "doubleClick": true,
+                "forceSsl": "{{element classes}}",
+                "setTrackerName": true,
+                "advertisingFeaturesType": "DISPLAY_FEATURES",
+                "socialNetwork": "{{element url}}",
+                "socialAction": "{{element id}}",
+                "socialActionTarget": "{{url hostname}}"
+            }
+        }
+    ]
+}
