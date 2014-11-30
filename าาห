@@ -1,0 +1,2 @@
+ga('create', 'UA-XXXX-Y', { 'userId': 'USER_ID' });
+ga('send', 'pageview');
