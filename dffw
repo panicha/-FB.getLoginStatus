@@ -1,0 +1,7 @@
+{
+  "id": string,
+  "kind": "analytics#column",
+  "attributes": {
+    (key): string
+  }
+}
